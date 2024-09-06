@@ -1,6 +1,6 @@
 # eBPF-Dump: A Linux eBPF network monitor
 eBPF-Dump is an open source network monitor application built using eBPF, we makes BPF programs easier to build.
-[![Build Status](https://drone.grafana.net/api/badges/grafana/beyla/status.svg?ref=refs/heads/main)](https://ebpf-security.github.io/)
+[![Build Status](https://drone.grafana.net/api/badges/grafana/beyla/status.svg?ref=refs/heads/main)](https://ebpf-security.github.io/navihtml/ebpf-dump.html)
 
 ## Requirements
 Security monitoring purposes, It runs on/requires Linux Kernel >= 5.10 such as the following platforms:
@@ -64,7 +64,7 @@ $ ./ebpf-dump stop
 
 
 ## Contact Us
-* Mail to `ebpf-sec@hotmail.com`
+* Mail to `openhfw@outlook.com`
 Before moving on, please consider giving us a GitHub star ⭐️. Thank you!
 
 ## License
